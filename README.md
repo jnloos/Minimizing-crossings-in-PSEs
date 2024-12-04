@@ -9,8 +9,6 @@
 | `-t`      | Number of minutes after which termination is forced. Defaults to `50`. |
 | `-s`      | Specification of the strategies to be applied. If a sequence is to be executed, multiple can be listed using a "+" separator. |
 
-*Table 1: Parameters required to run the console application.*
-
 ---
 
 The present project consists of four different folders. The directory `./source/` contains all classes that manage
