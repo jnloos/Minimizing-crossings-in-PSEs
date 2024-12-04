@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Allow README.md and .gitignore
+!../README.md
+!.gitignore
+!/input
+!/input/**
+!/logs
+!/logs/**
+!/output
+!/output/**

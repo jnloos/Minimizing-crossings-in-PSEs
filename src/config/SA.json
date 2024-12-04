@@ -1,0 +1,20 @@
+{
+  "initTemp" : 1,
+  "loopTime" : 5,
+  "distribExp" : 1,
+
+  "exponential" :
+  {
+    "base" : 0.94
+  },
+
+  "linear" :
+  {
+    "factor" : 0.85
+  },
+
+  "rebuild-neighbours" :
+  {
+    "chooseFar" : 0.0
+  }
+}

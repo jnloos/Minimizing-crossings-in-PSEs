@@ -1,0 +1,5 @@
+# Ignore the cmake-build-debug directory
+cmake-build-debug/
+
+# Ignore all .exe files
+*.exe

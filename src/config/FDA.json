@@ -1,0 +1,17 @@
+{
+  "maxIter" : 128,
+  "maxDiff" : 0.0001,
+  "cool" : 0.992,
+
+  "spring" :
+  {
+    "len" : 5,
+    "attr" : 10,
+    "repl" : 20000
+  },
+
+  "fruchtrhein" :
+  {
+    "len" : 100
+  }
+}
